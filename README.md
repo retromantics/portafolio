@@ -28,5 +28,5 @@ Soy **Full Stack Developer** con experiencia en integraciones, backend y desarro
 
 ## 🌟 Contacto
 
-- 🔗 LinkedIn: [linkedin.com/in/cami-campos](https://linkedin.com/in/camicampos)  
+- 🔗 LinkedIn: [linkedin.com/in/camicampos](https://linkedin.com/in/camicampos)  
 
